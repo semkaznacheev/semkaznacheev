@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Semen Kaznacheev!
+
+- 🌱 I’m currently learning Full-Stack Web Development at [NorthCoders](https://northcoders.com/). 
 
 <!--
 **semkaznacheev/semkaznacheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
