@@ -2,7 +2,11 @@
 I'm Semen Kaznacheev!
 
 - 🌱 I’m currently learning Full-Stack Web Development at [NorthCoders](https://northcoders.com/). 
+
+
 - ⚡ Technical Skills: 
+
+
    •	Languages: JavaScript, Typescript
    •	Front End: HTML5, CSS3, React, React Native 
    •	Back End: PSQL, Express, Firebase, REST APIs
