@@ -7,11 +7,11 @@ I'm Semen Kaznacheev!
 - ⚡ Technical Skills: 
 
 
-   •	Languages: JavaScript, Typescript
-   •	Front End: HTML5, CSS3, React, React Native 
-   •	Back End: PSQL, Express, Firebase, REST APIs
-   •	Testing: Jest, Supertest
-   •	Agile development: Pair programming, Test-Driven Development, Scrum, Kanban, Git Version Control
+  - •	Languages: JavaScript, Typescript
+  - •	Front End: HTML5, CSS3, React, React Native 
+  - •	Back End: PSQL, Express, Firebase, REST APIs
+  - •	Testing: Jest, Supertest
+  - •	Agile development: Pair programming, Test-Driven Development, Scrum, Kanban, Git Version Control
 
 
 <!--
